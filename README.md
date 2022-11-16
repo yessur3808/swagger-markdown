@@ -31,7 +31,7 @@ Or more simply
 ```python
 import markdown
 
-markdown.markdown('some markdown', extensions=['swaggermarkdown']))
+markdown.markdown('some markdown', extensions=['swaggermarkdown'])
 ```
 
 ## Configuration
